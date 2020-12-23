@@ -20,6 +20,8 @@ no puede ser negativo.
 }
 \examples{
 div(5, 0.5)
+div(3, 2)
+div(1, 0.00004)
 
 }
 \seealso{
