@@ -1,0 +1,15 @@
+Package: opelem
+Title: Operaciones elementales
+Version: 0.0.1
+Authors@R: 
+    person(given = "Aleix",
+           family = "Alcacer",
+           role = c("aut", "cre"),
+           email = "aalcacer@uji.es")
+Description: Este paquete realiza las cuatro operaciones elementales: la suma,
+             la resta, la multiplicación y la división.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1

@@ -1,0 +1,8 @@
+.Rproj.user
+opelem.Rcheck/
+opelem*.tar.gz
+opelem*.tgz
+.RData
+.Rbuildignore
+project.Rproj
+.Rhistory
